@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!-- ejemplo2.xml  GE19020 -->
+<pais nombre="El Salvador">
+      <departamento id="1" nombre="San Salvador">
+          <cabecera>San Salvador</cabecera>
+         <habitantes>1,700,000</habitantes>
+          <altura>545 MSNM</altura>
+      </departamento>
+      
+      
+      <departamento id="1" nombre="San Salvador">
+          <moneda>Dolar EstadoUnidense</moneda>
+         <codigo_telefonico_area>503</codigo_telefonico_area>
+          <idioma>Español</idioma>
+      </departamento>
+      
+      
+      <departamento id="1" nombre="San Salvador">
+          <continente>Dolar EstadoUnidense</continente>
+         <nacionalidad>503</nacionalidad>
+          <idioma>Español</idioma>
+      </departamento>
+      
+      
+</pais>

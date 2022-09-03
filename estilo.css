@@ -1,0 +1,14 @@
+/* ejemplo1.css   GE19020  */
+
+fichero {background-color:blue;}
+ficha {background-color:red; display:block;}
+ nombre {color:white; display:inline;}
+ apellido {color:yellow; display:inline;}
+ direccion {color:rgb(22, 19, 21);font-size:1cm; display:flexbox;}
+
+
+pais {background-color:blue;}
+departamento {background-color:red; display:block;}
+ cabecera {color:white; display:inline;}
+ habitante {color:yellow; display:inline;}
+ altura {color:rgb(33, 15, 29);font-size:1cm; display:flex;}

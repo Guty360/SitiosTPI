@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!-- ejemplo1.xml  GE19020 -->
+<fichero>
+      <ficha id="1" fechaingreso="1/11/2012">
+        <nombre>Antonio</nombre>
+        <apellido>Barbero</apellido>
+        <direccion>Calle de Los Andes, 45</direccion>
+      </ficha>
+      
+      <ficha id="1" fechaingreso="1/11/2012">
+        <telefono>7458-7851</telefono>
+        <email>pastorBuenaOnda20@gmail.com</email>
+        <url>http://xml.ge19020.tpi.com</url>
+      </ficha>
+      
+      <ficha id="1" fechaingreso="1/11/2012">
+        <dui>061685784</dui>
+        <isss>14264669</isss>
+        <afp>Confia</afp>
+      </ficha>
+      
+      
+  </fichero>
